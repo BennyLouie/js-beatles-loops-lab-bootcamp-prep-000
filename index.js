@@ -25,6 +25,8 @@ function iLoveTheBeatles(num) {
   }
   var shoutOut = []
   do {
-    `I love the Beatles!`}
+   shoutOut.push(`I love the Beatles!`)
+  }
   while (i < 15)
+  return shoutOut
 }
