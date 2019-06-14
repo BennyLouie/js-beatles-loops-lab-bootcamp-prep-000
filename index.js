@@ -18,7 +18,9 @@ function johnLennonFacts(facts) {
 }
 
 function iLoveTheBeatles(num) {
-  var 
+  function incrementNum() {
+    
+  }
   var shoutOut = []
   do {
    shoutOut.push(`I love the Beatles!`)
