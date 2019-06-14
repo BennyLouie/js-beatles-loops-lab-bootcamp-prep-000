@@ -27,6 +27,6 @@ function iLoveTheBeatles(num) {
   do {
    shoutOut.push(`I love the Beatles!`)
   }
-  while (i < 15);
+  while (incrementVariable() < 15);
   return shoutOut
 }
